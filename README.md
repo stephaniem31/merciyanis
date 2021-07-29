@@ -5,10 +5,7 @@
 
 ## Description
 
-  - Récréer une page précise (avec base de données) du site originel -> [ici](http://get.talentdetection.com/lnk/AUgAADGE94kAAchh2oQAALrnLjoAAABElewAAAAAAAw5JABgtkIMX4MZB7lJQpSxWxyEJO62zQAAanQ/1/J0mGRYqQpITAPLwDRvG8_Q/aHR0cHM6Ly9pemlkb3JlLmNvbS92aWRlLWFwcGFydC9hcHBhcnRlbWVudC1qdW5oYWMvMTg2NTA")
-  - Utilisation de PHP, Symfony, Twig, Boostrap.
-  - Implémentation d'une nouvelle fonctionnalité : possibilité de laisser des avis aux vendeurs en tant que client et de les afficher.
-
+  Create a single page web application for the MerciYanis Music Store using ReactJS and a RESTful API.
   
  ## Installation
  
